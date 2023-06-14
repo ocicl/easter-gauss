@@ -1,10 +1,10 @@
 * easter-gauss
 
+Calculate the Ester date from year using the method developed from
+Gauss.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://notabug.org/cage/easter-gauss.git   |
-| commit  |   |
-| systems | easter-gauss |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------|
+| source  | git:https://notabug.org/cage/easter-gauss.git |
+| commit  | 16b71d6488                                    |
+| systems | easter-gauss                                  |
+|---------+-----------------------------------------------|
