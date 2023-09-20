@@ -6,6 +6,6 @@ Gauss.
 
 |---------+-----------------------------------------------|
 | source  | git:https://notabug.org/cage/easter-gauss.git |
-| commit  | 16b71d6                                       |
+| commit  | 125e357                                       |
 | systems | easter-gauss                                  |
 |---------+-----------------------------------------------|
